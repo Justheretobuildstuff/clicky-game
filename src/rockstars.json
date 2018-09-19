@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "http://ultimateclassicrock.com/files/2018/01/slash.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "https://i.iheart.com/v3/re/new_assets/5abe85d782ece404ab2ba5bc?contain(740,0)",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "https://s.hdnux.com/photos/51/24/64/10833159/3/920x920.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "http://www.guitarnoise.com/images/features/jimmy-page-1-1024x692-1024x585.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "https://img.discogs.com/CsOq7AckyxGp8HdkmgaZyXUwBgs=/600x433/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-37729-1402843452-1587.jpeg.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "https://i.ytimg.com/vi/Fn18GCMklL8/maxresdefault.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "http://ultimateclassicrock.com/files/2014/10/EricClapton.jpg?w=980&q=75",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "https://timedotcom.files.wordpress.com/2017/03/chuck-berry-18.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "http://3.bp.blogspot.com/-U4Og_W-g9DY/VHN8NFcvvAI/AAAAAAAAAU0/PIRXQpozEUI/s1600/GilmourBlackStrat.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "https://media.npr.org/assets/music/blogs/asc/2010/02/prince_wide-2dda950a6e1563c09254f1b27edf68bfa3e28dcc.jpg?s=1400",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "https://ichef.bbci.co.uk/images/ic/960x540/p01bqmwg.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rexfeatures_1611498i-ba71fc21-c0fa-487e-be0c-2b5dc4b590c1.jpg?crop=900:600&width=440",
+        "clicked": false
+    }
+]
